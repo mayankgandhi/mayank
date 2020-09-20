@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A8E082BD2516E56E005AE41D /* TabLayoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E082BC2516E56E005AE41D /* TabLayoutView.swift */; };
 		A8EA1DEC2516DE0300DA3E70 /* mayankApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8EA1DEB2516DE0300DA3E70 /* mayankApp.swift */; };
 		A8EA1DEE2516DE0300DA3E70 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8EA1DED2516DE0300DA3E70 /* ContentView.swift */; };
 		A8EA1DF02516DE0400DA3E70 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8EA1DEF2516DE0400DA3E70 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A8E082BC2516E56E005AE41D /* TabLayoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabLayoutView.swift; sourceTree = "<group>"; };
 		A8EA1DE82516DE0300DA3E70 /* mayank.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mayank.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8EA1DEB2516DE0300DA3E70 /* mayankApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mayankApp.swift; sourceTree = "<group>"; };
 		A8EA1DED2516DE0300DA3E70 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				A8EA1DEB2516DE0300DA3E70 /* mayankApp.swift */,
 				A8EA1DED2516DE0300DA3E70 /* ContentView.swift */,
+				A8E082BC2516E56E005AE41D /* TabLayoutView.swift */,
 				A8EA1DEF2516DE0400DA3E70 /* Assets.xcassets */,
 				A8EA1DF42516DE0400DA3E70 /* Persistence.swift */,
 				A8EA1DF92516DE0400DA3E70 /* Info.plist */,
@@ -144,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A8E082BD2516E56E005AE41D /* TabLayoutView.swift in Sources */,
 				A8EA1DF82516DE0400DA3E70 /* mayank.xcdatamodeld in Sources */,
 				A8EA1DF52516DE0400DA3E70 /* Persistence.swift in Sources */,
 				A8EA1DEE2516DE0300DA3E70 /* ContentView.swift in Sources */,
